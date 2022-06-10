@@ -1,0 +1,30 @@
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.deps.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Core.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Core.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.CopyComplete
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.deps.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Application.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Core.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Core.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.csproj.CopyComplete
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.Application\obj\Debug\netcoreapp2.2\ApiBank.Application.pdb

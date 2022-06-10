@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiBank.Core\ApiBank.Core.csproj" />
+    <ProjectReference Include="..\ApiBank.Infrastructure\ApiBank.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

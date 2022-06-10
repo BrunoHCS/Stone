@@ -1,0 +1,60 @@
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.deps.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.runtimeconfig.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.deps.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.runtimeconfig.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Core.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Application.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Core.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.CopyComplete
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.dll
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.pdb
+C:\Users\bruno\Desktop\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.deps.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.runtimeconfig.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.deps.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.runtimeconfig.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.UnitTests.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Application.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Core.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Application.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Core.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\bin\Debug\netcoreapp2.2\ApiBank.Infrastructure.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.csproj.CopyComplete
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.dll
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.pdb
+C:\Users\bruno\Desktop\Teste Stone\ApiBank\ApiBank.UnitTests\obj\Debug\netcoreapp2.2\ApiBank.UnitTests.genruntimeconfig.cache
