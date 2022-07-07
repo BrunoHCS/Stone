@@ -58,7 +58,7 @@ namespace ApiBank.Controllers
             return BadRequest("Erro ao depositar.");
         }
 
-        [HttpGet, Route("saque")]
+        [HttpPost, Route("saque")]
         public IActionResult Saque([FromBody] SaqueViewModel viewModel)
         {
             var validaConta = _bankService.ValidaConta(viewModel.NumeroConta);

@@ -12222,11 +12222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank\\ApiBank.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank\\ApiBank.csproj",
       "projectName": "ApiBank",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank\\ApiBank.csproj",
+      "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank\\ApiBank.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -12248,11 +12248,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Application\\ApiBank.Application.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Application\\ApiBank.Application.csproj"
+            "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Application\\ApiBank.Application.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Application\\ApiBank.Application.csproj"
             },
-            "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj"
+            "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj"
             }
           }
         }

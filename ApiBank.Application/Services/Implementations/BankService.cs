@@ -100,10 +100,14 @@ namespace ApiBank.Application.Services.Implementations
                     contaDestino.RecebeTransferir(inputModel.Valor);
                     _dbContext.SaveChanges();
 
-                    var extrato = new Extrato(inputModel.ContaOrigem);
-                    var salva = extrato.SalvaExtrato(contaOrigem.Saldo, "TRANSFERENCIA", inputModel.Valor, "-1");
+                    var extratoContaOrigem = new Extrato(inputModel.ContaOrigem);
+                    var salvaContaOrigem = extratoContaOrigem.SalvaExtrato(contaOrigem.Saldo, "TRANSFERENCIA", inputModel.Valor, "-1");
 
-                    _dbContext.Extratos.Add(salva);
+                    var extratoContaDestino = new Extrato(inputModel.ContaDestino);
+                    var salvaContaDestino = extratoContaDestino.SalvaExtrato(contaDestino.Saldo, "TRANSFERENCIA", inputModel.Valor, "");
+
+                    _dbContext.Extratos.Add(salvaContaOrigem);
+                    _dbContext.Extratos.Add(salvaContaDestino);
                     _dbContext.SaveChanges();
 
                     return true;

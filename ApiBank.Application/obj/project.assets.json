@@ -3056,11 +3056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Application\\ApiBank.Application.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Application\\ApiBank.Application.csproj",
       "projectName": "ApiBank.Application",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Application\\ApiBank.Application.csproj",
+      "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Application\\ApiBank.Application.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Application\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3082,11 +3082,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Core\\ApiBank.Core.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Core\\ApiBank.Core.csproj"
+            "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Core\\ApiBank.Core.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Core\\ApiBank.Core.csproj"
             },
-            "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Desktop\\Teste Stone\\ApiBank\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj"
+            "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Desktop\\workspace\\Stone\\ApiBank.Infrastructure\\ApiBank.Infrastructure.csproj"
             }
           }
         }
