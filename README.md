@@ -20,7 +20,6 @@
 }
 ```
 
-### GET
 * Saque:
 **/api/bank/saque**
 ```
@@ -30,6 +29,7 @@
 }
 ```
 
+### GET
 * Extrato:
 **/api/bank/extrato**
 ```
